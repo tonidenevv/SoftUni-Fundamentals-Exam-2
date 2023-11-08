@@ -21,11 +21,3 @@ function solve(input) {
     }
     console.log(`The decrypted message is: ${message}`);
 }
-solve([
-    'owyouh',
-    'Move|2',
-    'Move|3',
-    'Insert|3|are',
-    'Insert|9|?',
-    'Decode',
-  ])
